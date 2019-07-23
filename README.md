@@ -1,2 +1,2 @@
-# AlpinePHPComposer
-alpine base php-composer 
+# AlpineUbiquity
+alpine base Ubiquity
